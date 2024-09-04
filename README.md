@@ -6,4 +6,4 @@ Reference:
 
 Booch, G., Maksimchuk, R. A., Engle, M. W., Young, B. J., Conallen, J., & Houston, K. A. (2007). Object-oriented analysis and design with applications (3rd ed.). Addison-Wesley Professional.
 
-GitHub Repository: https://github.com/s4rmier/csc272-assignment1
+GitHub Repository: https://github.com/s4rmier/csc272-discussion1
